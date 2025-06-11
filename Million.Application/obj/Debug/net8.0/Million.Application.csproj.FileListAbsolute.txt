@@ -248,3 +248,4 @@ E:\Inventario\Million\Million.Application\obj\Debug\net8.0\refint\Million.Applic
 E:\Inventario\Million\Million.Application\obj\Debug\net8.0\Million.Application.pdb
 E:\Inventario\Million\Million.Application\obj\Debug\net8.0\Million.Application.genruntimeconfig.cache
 E:\Inventario\Million\Million.Application\obj\Debug\net8.0\ref\Million.Application.dll
+E:\Inventario\Million\Million.Application\obj\Debug\net8.0\Million.Application.sourcelink.json

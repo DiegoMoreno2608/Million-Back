@@ -274,3 +274,4 @@ E:\Inventario\Million\Million.Api\obj\Debug\net8.0\refint\Million.Api.dll
 E:\Inventario\Million\Million.Api\obj\Debug\net8.0\Million.Api.pdb
 E:\Inventario\Million\Million.Api\obj\Debug\net8.0\Million.Api.genruntimeconfig.cache
 E:\Inventario\Million\Million.Api\obj\Debug\net8.0\ref\Million.Api.dll
+E:\Inventario\Million\Million.Api\obj\Debug\net8.0\Million.Api.sourcelink.json

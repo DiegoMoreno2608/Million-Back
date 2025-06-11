@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Million.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02fc309dc30f19e696d009e968653c8a30343d6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Million.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Million.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,7 +9,7 @@ namespace Million.Application.DTOs
 {
     public class PropertyDto
     {
-        public string IdProperty { get; set; }
+        public string? IdProperty { get; set; }
         public string Name { get; set; }
         public string Address { get; set; }
         public decimal Price { get; set; }
