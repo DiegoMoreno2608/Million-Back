@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\1dd5f6ee-886e-4969-8691-1903a1d9fa2e.png",
+      "PackagePath": "staticwebassets\\images\\1dd5f6ee-886e-4969-8691-1903a1d9fa2e.png"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\5671844f-40e0-4680-8465-bce1c8ebea74.jpg",
+      "PackagePath": "staticwebassets\\images\\5671844f-40e0-4680-8465-bce1c8ebea74.jpg"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\5df33dad-2a97-45b0-8938-a6dbae384919.jpg",
+      "PackagePath": "staticwebassets\\images\\5df33dad-2a97-45b0-8938-a6dbae384919.jpg"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\684c17c8-e1f9-4bc4-9171-b3f6fac1c115.jpg",
+      "PackagePath": "staticwebassets\\images\\684c17c8-e1f9-4bc4-9171-b3f6fac1c115.jpg"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\6c98d3e1-0d05-4995-8bfd-04bb923adec1.jpg",
+      "PackagePath": "staticwebassets\\images\\6c98d3e1-0d05-4995-8bfd-04bb923adec1.jpg"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\886d8f13-1fcd-4ef1-94b8-c74f961afffa.jpg",
+      "PackagePath": "staticwebassets\\images\\886d8f13-1fcd-4ef1-94b8-c74f961afffa.jpg"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\99a373b7-c82f-42e9-acc6-d748da4db7cb.jpg",
+      "PackagePath": "staticwebassets\\images\\99a373b7-c82f-42e9-acc6-d748da4db7cb.jpg"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\Owners\\18f9bf12-19cf-49d5-aa97-432338a0ee23.jpg",
+      "PackagePath": "staticwebassets\\images\\Owners\\18f9bf12-19cf-49d5-aa97-432338a0ee23.jpg"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\Owners\\8dc21eb0-d667-4dc5-a7d3-c94466a39667.jpg",
+      "PackagePath": "staticwebassets\\images\\Owners\\8dc21eb0-d667-4dc5-a7d3-c94466a39667.jpg"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\Owners\\9ad0a627-7f8f-4ea8-901e-22dc8c05cd4a.jpg",
+      "PackagePath": "staticwebassets\\images\\Owners\\9ad0a627-7f8f-4ea8-901e-22dc8c05cd4a.jpg"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\Properties\\01e6bd60-1218-464f-af45-78e13ef35229.NEF",
+      "PackagePath": "staticwebassets\\images\\Properties\\01e6bd60-1218-464f-af45-78e13ef35229.NEF"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\Properties\\1c8b0d37-9027-497e-83de-884247472156.png",
+      "PackagePath": "staticwebassets\\images\\Properties\\1c8b0d37-9027-497e-83de-884247472156.png"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\Properties\\685fba02-f1ed-4852-932e-b59f4d0ad1b0.png",
+      "PackagePath": "staticwebassets\\images\\Properties\\685fba02-f1ed-4852-932e-b59f4d0ad1b0.png"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\Properties\\72389b1a-c6e5-4f28-95e8-2cf7d43b957d.jpeg",
+      "PackagePath": "staticwebassets\\images\\Properties\\72389b1a-c6e5-4f28-95e8-2cf7d43b957d.jpeg"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\Properties\\7c4524a2-f73d-4b29-bcc7-011a117361fc.jpeg",
+      "PackagePath": "staticwebassets\\images\\Properties\\7c4524a2-f73d-4b29-bcc7-011a117361fc.jpeg"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\Properties\\e983aa72-b222-4b05-bb6d-3b6a2f478e61.png",
+      "PackagePath": "staticwebassets\\images\\Properties\\e983aa72-b222-4b05-bb6d-3b6a2f478e61.png"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\c6d454d2-d54c-4765-9795-30290cd5ea23.jpg",
+      "PackagePath": "staticwebassets\\images\\c6d454d2-d54c-4765-9795-30290cd5ea23.jpg"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\cf0c894e-8d85-4d0a-9fad-0f6967bd526f.png",
+      "PackagePath": "staticwebassets\\images\\cf0c894e-8d85-4d0a-9fad-0f6967bd526f.png"
+    },
+    {
+      "Id": "E:\\Inventario\\Million\\Million.Api\\wwwroot\\images\\dc9839e0-329d-4ca3-a012-7d921de2c2c1.png",
+      "PackagePath": "staticwebassets\\images\\dc9839e0-329d-4ca3-a012-7d921de2c2c1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Million.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Million.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Million.Api.props",
+      "PackagePath": "build\\Million.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Million.Api.props",
+      "PackagePath": "buildMultiTargeting\\Million.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Million.Api.props",
+      "PackagePath": "buildTransitive\\Million.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

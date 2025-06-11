@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Inventario\\Million\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3BCC82-49A1-47E1-AC57-11944EF41905}|Million.Application\\Million.Application.csproj|e:\\inventario\\million\\million.application\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3BCC82-49A1-47E1-AC57-11944EF41905}|Million.Application\\Million.Application.csproj|solutionrelative:million.application\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3BCC82-49A1-47E1-AC57-11944EF41905}|Million.Application\\Million.Application.csproj|e:\\inventario\\million\\million.application\\services\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3BCC82-49A1-47E1-AC57-11944EF41905}|Million.Application\\Million.Application.csproj|solutionrelative:million.application\\services\\ownerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE4996C-C2C8-4B9C-A7D6-2F5739953CD9}|Million.Api\\Million.Api.csproj|e:\\inventario\\million\\million.api\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE4996C-C2C8-4B9C-A7D6-2F5739953CD9}|Million.Api\\Million.Api.csproj|solutionrelative:million.api\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE4996C-C2C8-4B9C-A7D6-2F5739953CD9}|Million.Api\\Million.Api.csproj|e:\\inventario\\million\\million.api\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE4996C-C2C8-4B9C-A7D6-2F5739953CD9}|Million.Api\\Million.Api.csproj|solutionrelative:million.api\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3BCC82-49A1-47E1-AC57-11944EF41905}|Million.Application\\Million.Application.csproj|e:\\inventario\\million\\million.application\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3BCC82-49A1-47E1-AC57-11944EF41905}|Million.Application\\Million.Application.csproj|solutionrelative:million.application\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8DE665-8995-4BF3-86DF-0941DB1FA2FA}|Million.Domain\\Million.Domain.csproj|e:\\inventario\\million\\million.domain\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8DE665-8995-4BF3-86DF-0941DB1FA2FA}|Million.Domain\\Million.Domain.csproj|solutionrelative:million.domain\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3BCC82-49A1-47E1-AC57-11944EF41905}|Million.Application\\Million.Application.csproj|e:\\inventario\\million\\million.application\\dtos\\propertytracedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3BCC82-49A1-47E1-AC57-11944EF41905}|Million.Application\\Million.Application.csproj|solutionrelative:million.application\\dtos\\propertytracedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8DE665-8995-4BF3-86DF-0941DB1FA2FA}|Million.Domain\\Million.Domain.csproj|e:\\inventario\\million\\million.domain\\interfaces\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8DE665-8995-4BF3-86DF-0941DB1FA2FA}|Million.Domain\\Million.Domain.csproj|solutionrelative:million.domain\\interfaces\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0EBCCD-C1E0-4AE0-A6E3-2CBA7EBF9C9C}|Million.Infrastructure\\Million.Infrastructure.csproj|e:\\inventario\\million\\million.infrastructure\\repositories\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0EBCCD-C1E0-4AE0-A6E3-2CBA7EBF9C9C}|Million.Infrastructure\\Million.Infrastructure.csproj|solutionrelative:million.infrastructure\\repositories\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8DE665-8995-4BF3-86DF-0941DB1FA2FA}|Million.Domain\\Million.Domain.csproj|e:\\inventario\\million\\million.domain\\entities\\propertytrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8DE665-8995-4BF3-86DF-0941DB1FA2FA}|Million.Domain\\Million.Domain.csproj|solutionrelative:million.domain\\entities\\propertytrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE4996C-C2C8-4B9C-A7D6-2F5739953CD9}|Million.Api\\Million.Api.csproj|e:\\inventario\\million\\million.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE4996C-C2C8-4B9C-A7D6-2F5739953CD9}|Million.Api\\Million.Api.csproj|solutionrelative:million.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0EBCCD-C1E0-4AE0-A6E3-2CBA7EBF9C9C}|Million.Infrastructure\\Million.Infrastructure.csproj|e:\\inventario\\million\\million.infrastructure\\repositories\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0EBCCD-C1E0-4AE0-A6E3-2CBA7EBF9C9C}|Million.Infrastructure\\Million.Infrastructure.csproj|solutionrelative:million.infrastructure\\repositories\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8DE665-8995-4BF3-86DF-0941DB1FA2FA}|Million.Domain\\Million.Domain.csproj|e:\\inventario\\million\\million.domain\\entities\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8DE665-8995-4BF3-86DF-0941DB1FA2FA}|Million.Domain\\Million.Domain.csproj|solutionrelative:million.domain\\entities\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3BCC82-49A1-47E1-AC57-11944EF41905}|Million.Application\\Million.Application.csproj|e:\\inventario\\million\\million.application\\dtos\\createownerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3BCC82-49A1-47E1-AC57-11944EF41905}|Million.Application\\Million.Application.csproj|solutionrelative:million.application\\dtos\\createownerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8DE665-8995-4BF3-86DF-0941DB1FA2FA}|Million.Domain\\Million.Domain.csproj|e:\\inventario\\million\\million.domain\\interfaces\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8DE665-8995-4BF3-86DF-0941DB1FA2FA}|Million.Domain\\Million.Domain.csproj|solutionrelative:million.domain\\interfaces\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F3BCC82-49A1-47E1-AC57-11944EF41905}|Million.Application\\Million.Application.csproj|e:\\inventario\\million\\million.application\\dtos\\ownernamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F3BCC82-49A1-47E1-AC57-11944EF41905}|Million.Application\\Million.Application.csproj|solutionrelative:million.application\\dtos\\ownernamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8DE665-8995-4BF3-86DF-0941DB1FA2FA}|Million.Domain\\Million.Domain.csproj|e:\\inventario\\million\\million.domain\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A8DE665-8995-4BF3-86DF-0941DB1FA2FA}|Million.Domain\\Million.Domain.csproj|solutionrelative:million.domain\\entities\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE4996C-C2C8-4B9C-A7D6-2F5739953CD9}|Million.Api\\Million.Api.csproj|e:\\inventario\\million\\million.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CE4996C-C2C8-4B9C-A7D6-2F5739953CD9}|Million.Api\\Million.Api.csproj|solutionrelative:million.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0EBCCD-C1E0-4AE0-A6E3-2CBA7EBF9C9C}|Million.Infrastructure\\Million.Infrastructure.csproj|e:\\inventario\\million\\million.infrastructure\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0EBCCD-C1E0-4AE0-A6E3-2CBA7EBF9C9C}|Million.Infrastructure\\Million.Infrastructure.csproj|solutionrelative:million.infrastructure\\settings\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8DE665-8995-4BF3-86DF-0941DB1FA2FA}|Million.Domain\\Million.Domain.csproj|e:\\inventario\\million\\million.domain\\million.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A8DE665-8995-4BF3-86DF-0941DB1FA2FA}|Million.Domain\\Million.Domain.csproj|solutionrelative:million.domain\\million.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropertiesController.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Api\\Controllers\\PropertiesController.cs",
+              "RelativeDocumentMoniker": "Million.Api\\Controllers\\PropertiesController.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Api\\Controllers\\PropertiesController.cs",
+              "RelativeToolTip": "Million.Api\\Controllers\\PropertiesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:05:02.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PropertyRepository.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "RelativeDocumentMoniker": "Million.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "RelativeToolTip": "Million.Infrastructure\\Repositories\\PropertyRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwDIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:57:58.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropertyTraceDto.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Application\\DTOs\\PropertyTraceDto.cs",
+              "RelativeDocumentMoniker": "Million.Application\\DTOs\\PropertyTraceDto.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Application\\DTOs\\PropertyTraceDto.cs",
+              "RelativeToolTip": "Million.Application\\DTOs\\PropertyTraceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T04:17:46.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertyService.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Application\\Services\\PropertyService.cs",
+              "RelativeDocumentMoniker": "Million.Application\\Services\\PropertyService.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Application\\Services\\PropertyService.cs",
+              "RelativeToolTip": "Million.Application\\Services\\PropertyService.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAmwB0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:57:07.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OwnerController.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Api\\Controllers\\OwnerController.cs",
+              "RelativeDocumentMoniker": "Million.Api\\Controllers\\OwnerController.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Api\\Controllers\\OwnerController.cs",
+              "RelativeToolTip": "Million.Api\\Controllers\\OwnerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:26:23.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OwnerService.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Application\\Services\\OwnerService.cs",
+              "RelativeDocumentMoniker": "Million.Application\\Services\\OwnerService.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Application\\Services\\OwnerService.cs",
+              "RelativeToolTip": "Million.Application\\Services\\OwnerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:26:42.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPropertyRepository.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Domain\\Interfaces\\IPropertyRepository.cs",
+              "RelativeDocumentMoniker": "Million.Domain\\Interfaces\\IPropertyRepository.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Domain\\Interfaces\\IPropertyRepository.cs",
+              "RelativeToolTip": "Million.Domain\\Interfaces\\IPropertyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:55:59.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PropertyTrace.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Domain\\Entities\\PropertyTrace.cs",
+              "RelativeDocumentMoniker": "Million.Domain\\Entities\\PropertyTrace.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Domain\\Entities\\PropertyTrace.cs",
+              "RelativeToolTip": "Million.Domain\\Entities\\PropertyTrace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:53:38.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropertyDto.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Application\\DTOs\\PropertyDto.cs",
+              "RelativeDocumentMoniker": "Million.Application\\DTOs\\PropertyDto.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Application\\DTOs\\PropertyDto.cs",
+              "RelativeToolTip": "Million.Application\\DTOs\\PropertyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:56:45.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Property.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Domain\\Entities\\Property.cs",
+              "RelativeDocumentMoniker": "Million.Domain\\Entities\\Property.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Domain\\Entities\\Property.cs",
+              "RelativeToolTip": "Million.Domain\\Entities\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:54:59.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OwnerRepository.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Infrastructure\\Repositories\\OwnerRepository.cs",
+              "RelativeDocumentMoniker": "Million.Infrastructure\\Repositories\\OwnerRepository.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Infrastructure\\Repositories\\OwnerRepository.cs",
+              "RelativeToolTip": "Million.Infrastructure\\Repositories\\OwnerRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:52:03.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Million.Api\\Program.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Api\\Program.cs",
+              "RelativeToolTip": "Million.Api\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:02:07.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PropertyImage.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Domain\\Entities\\PropertyImage.cs",
+              "RelativeDocumentMoniker": "Million.Domain\\Entities\\PropertyImage.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Domain\\Entities\\PropertyImage.cs",
+              "RelativeToolTip": "Million.Domain\\Entities\\PropertyImage.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:52:46.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAAIICAAAAAAAAAAAlwJUCAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-10T17:00:15.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateOwnerRequestDTO.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Application\\DTOs\\CreateOwnerRequestDTO.cs",
+              "RelativeDocumentMoniker": "Million.Application\\DTOs\\CreateOwnerRequestDTO.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Application\\DTOs\\CreateOwnerRequestDTO.cs",
+              "RelativeToolTip": "Million.Application\\DTOs\\CreateOwnerRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:25:28.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOwnerRepository.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Domain\\Interfaces\\IOwnerRepository.cs",
+              "RelativeDocumentMoniker": "Million.Domain\\Interfaces\\IOwnerRepository.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Domain\\Interfaces\\IOwnerRepository.cs",
+              "RelativeToolTip": "Million.Domain\\Interfaces\\IOwnerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:27:29.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OwnerNameDto.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Application\\DTOs\\OwnerNameDto.cs",
+              "RelativeDocumentMoniker": "Million.Application\\DTOs\\OwnerNameDto.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Application\\DTOs\\OwnerNameDto.cs",
+              "RelativeToolTip": "Million.Application\\DTOs\\OwnerNameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T15:32:35.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Domain\\Entities\\Owner.cs",
+              "RelativeDocumentMoniker": "Million.Domain\\Entities\\Owner.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Domain\\Entities\\Owner.cs",
+              "RelativeToolTip": "Million.Domain\\Entities\\Owner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T23:50:52.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Infrastructure\\Settings\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "Million.Infrastructure\\Settings\\MongoDbSettings.cs",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Infrastructure\\Settings\\MongoDbSettings.cs",
+              "RelativeToolTip": "Million.Infrastructure\\Settings\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:57:40.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Million.Api\\appsettings.json",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Api\\appsettings.json",
+              "RelativeToolTip": "Million.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T23:24:40.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Million.Domain.csproj",
+              "DocumentMoniker": "E:\\Inventario\\Million\\Million.Domain\\Million.Domain.csproj",
+              "RelativeDocumentMoniker": "Million.Domain\\Million.Domain.csproj",
+              "ToolTip": "E:\\Inventario\\Million\\Million.Domain\\Million.Domain.csproj",
+              "RelativeToolTip": "Million.Domain\\Million.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T22:50:18.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
